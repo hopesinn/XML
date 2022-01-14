@@ -1,0 +1,16 @@
+<skills.xml>
+<author>
+	<name>vadim</name>
+	<lastname>ksendzov</lastname>
+</author>
+<group>26</group>
+<skills> 
+  <skill>SDLC,STLC</skill>
+  <skill>Client-server</skill>
+  <skill>Dev Tools</skill>
+  <skill>VPN</skill>
+  <skill>SQL</skill>
+  <skill>CMD</skill>
+  <skill>Mobile testing</skill>
+</skills>
+</skills.xml>
